@@ -38,9 +38,9 @@ Através da coleta, tratamento e visualização de dados sobre vagas, competênc
 
 ## 🙌 Autores
 
-- João Fernando Moraes Dos Santos — RGM: 45654841  
-- Felipe Nogueira Santos — RGM: 45043922  
-- Clévio Welber Dias Gomes — RGM: 45142581  
+- João Fernando Moraes Dos Santos
+- Felipe Nogueira Santos  
+- Clévio Welber Dias Gomes
 
 Universidade Cruzeiro do Sul 🎓  
 

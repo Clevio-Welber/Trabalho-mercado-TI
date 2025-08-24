@@ -1,4 +1,5 @@
 📊Mapeamento do Mercado de Trabalho em TI.
+
 Este repositório tem como objetivo mapear e analisar o mercado de trabalho na área de Tecnologia da Informação (TI) no Brasil. Através da coleta, tratamento e visualização de dados sobre vagas, competências exigidas, faixas salariais e tendências, buscamos oferecer insights úteis para profissionais, estudantes e empresas do setor.
 🔍 Objetivos
 
